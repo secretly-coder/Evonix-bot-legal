@@ -1,7 +1,7 @@
-# Privacy Policy for EvoX
+# Privacy Policy for Evonix
 Last Updated: May 16, 2026
 
-This Privacy Policy explains how EvoX ("the Bot") collects, uses, and protects your information when you use it on Discord.
+This Privacy Policy explains how Evonix ("the Bot") collects, uses, and protects your information when you use it on Discord.
 
 ## 1. Information We Collect
 To function properly, the Bot collects and stores the following data:
