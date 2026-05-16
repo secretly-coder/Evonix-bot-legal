@@ -1,8 +1,8 @@
-# Terms of Service for EvoX
+# Terms of Service for Evonix
 
 Last Updated: May 16, 2026
 
-By inviting EvoX ("the Bot") to your Discord server or using its features, you agree to these Terms of Service.
+By inviting Evonix ("the Bot") to your Discord server or using its features, you agree to these Terms of Service.
 
 ## 1. Usage Rules
 * You may not use the Bot to generate or promote illegal, abusive, or harmful content.
